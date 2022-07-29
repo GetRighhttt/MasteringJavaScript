@@ -1,9 +1,13 @@
 /**
  * A callback is like a higher-order function in Kotlin.
  * 
- * Callbacks are functions that are passed as an argument to another function.
+ * Callbacks are functions that are passed as an argument to another function
+ * to control the execution of functions.
  * 
  * It's a function passed inside of a function to do more.
+ * 
+ * Callbacks are typically used when you want to execute a function 
+ * asynchronously.
  */
 
 // Here we wil demonstrate how to use a callback function
